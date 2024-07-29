@@ -5,7 +5,7 @@ categories: [test, test2]
 tags: [test]
 description: 12321312test
 
-published: false #不顯示此文章
+published: true #不顯示此文章
 ---
 
 # 123
@@ -15,5 +15,5 @@ published: false #不顯示此文章
 
 ```bash
 sudo apt install
-33
+22878787
 ```
