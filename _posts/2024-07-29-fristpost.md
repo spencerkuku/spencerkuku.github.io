@@ -1,11 +1,17 @@
 ---
-title: 測試
-date: YYYY-MM-DD HH:MM:SS +/-TTTT
-categories: [測試, 測試]
+title: test
+date: 2024-07-29
+categories: [test, test2]
 tags: [test]
 
 description: 12321312test
 ---
+
 # 123
 ## 123
 ### 123
+
+
+```bash
+sudo apt install
+```
