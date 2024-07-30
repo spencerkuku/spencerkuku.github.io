@@ -2,7 +2,7 @@
 title: SQLmap Note
 date: 2024-07-30
 categories: [資安]
-tags: [note]
+tags: [note,sqlmap]
 
 description: 基本sqlmap使用方法
 
